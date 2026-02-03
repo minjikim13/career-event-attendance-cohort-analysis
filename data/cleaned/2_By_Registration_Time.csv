@@ -1,0 +1,4 @@
+Timing_Cohort,total,attended,attendance_rate,no_show_rate
+Recent (0-6 days),50,23,46.0,54.0
+Early (14+ days),100,25,25.0,75.0
+Mid-term (7-13 days),38,7,18.4,81.6

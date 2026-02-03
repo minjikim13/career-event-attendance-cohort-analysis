@@ -1,0 +1,10 @@
+Timing_Cohort,Country,total,attended,rate
+Mid-term (7-13 days),Australia,5,3,60.0
+Early (14+ days),China,20,8,40.0
+Recent (0-6 days),China,5,2,40.0
+Early (14+ days),Australia,7,2,28.6
+Recent (0-6 days),Australia,4,1,25.0
+Recent (0-6 days),India,4,1,25.0
+Mid-term (7-13 days),China,11,2,18.2
+Early (14+ days),India,23,1,4.3
+Mid-term (7-13 days),India,3,0,0.0
