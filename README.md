@@ -4,7 +4,7 @@ SQL, Python and Tableau analysis of real event attendance data to identify drive
 
 ## Business Context
 
-This project analyses registration and attendance data from a student career event in Australia.
+This analysis was conducted to support data-driven decision-making for improving student event engagement.
 The goal was to understand why attendance was low (29.3%) and to identify data-driven strategies to improve attendance for future events, with a strong focus on cohort behaviour.
 
 ## Key Questions
