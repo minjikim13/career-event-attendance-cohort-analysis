@@ -61,7 +61,7 @@ Final dataset: 188 valid registrations.
 - data/cleand: raw and cleaned datasets
 - tableau/: dashboard and screenshots
 
-[Tableau Dashboard]
+## Tableau Dashboard
 <img width="1906" height="1002" alt="Screenshot 2026-02-02 at 9 51 48 pm" src="https://github.com/user-attachments/assets/895e627c-ef4a-48f2-9e2f-38dcd9248497" />
 
 
